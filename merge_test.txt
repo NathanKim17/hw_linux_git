@@ -1,2 +1,2 @@
-Software engineering is not fun!
-This will cause a merge conflict!
+Ruby's Diner
+In and Out Cheese Burgers
