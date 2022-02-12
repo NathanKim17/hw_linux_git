@@ -1,1 +1,2 @@
-Software engineering is fun!
+Software engineering is NOT FUN!
+This should cause a Merge Conflict
